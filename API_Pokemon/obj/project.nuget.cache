@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wllNBC89JDpovK7/lJwV5Zu/UyaoDhHRkXB90IavN70F4J6Gr2MC9PaPDwoNfRl8UoRu10+ehP/Sdv2+u6Y2Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose Ureña\\Desktop\\API_Pokemon\\API_Pokemon\\API_Pokemon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose Ureña\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
